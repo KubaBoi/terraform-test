@@ -1,6 +1,6 @@
-setcreds.sh
+secrets/*
 .terraform
 .idea
-certs
+secrets
 terraform.tfstate
 terraform.tfstate.backup
