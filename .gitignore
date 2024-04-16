@@ -1,0 +1,6 @@
+setcreds.sh
+.terraform
+.idea
+certs
+terraform.tfstate
+terraform.tfstate.backup
